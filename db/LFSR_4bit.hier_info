@@ -1,0 +1,22 @@
+|LFSR_4bit
+done << WideAnd0.DB_MAX_OUTPUT_PORT_TYPE
+rst => reg_val[0].PRESET
+rst => reg_val[1].PRESET
+rst => reg_val[2].PRESET
+rst => reg_val[3].PRESET
+clk => reg_val[0].CLK
+clk => reg_val[1].CLK
+clk => reg_val[2].CLK
+clk => reg_val[3].CLK
+count_en => always0.IN1
+count_en => always0.IN1
+count_to[0] => reg_val.DATAB
+count_to[1] => reg_val.DATAB
+count_to[2] => reg_val.DATAB
+count_to[3] => reg_val.DATAB
+load => reg_val.OUTPUTSELECT
+load => reg_val.OUTPUTSELECT
+load => reg_val.OUTPUTSELECT
+load => reg_val.OUTPUTSELECT
+
+
