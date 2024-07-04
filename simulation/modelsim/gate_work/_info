@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Quartus_Setup/Workspace/LFSR_4bit/simulation/modelsim
+vLFSR_4bit
+Z1 !s110 1705111728
+!i10b 1
+!s100 4RZ@dmZ=:G]AcUAgI8lal3
+IlHHSKZM?2A_BzXbcn6GY<2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1705111702
+8LFSR_4bit.vo
+FLFSR_4bit.vo
+L0 32
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1705111728.000000
+!s107 LFSR_4bit.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|LFSR_4bit.vo|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+.
+Z6 tCvgOpt 0
+n@l@f@s@r_4bit
+vLFSR_4bit_tb
+R1
+!i10b 1
+!s100 1A?ZD?6[IeoE5NkkY`bVU3
+IDAl<8RM1N4biE6^dEN6f=3
+R2
+R0
+w1699589259
+8D:/Quartus_Setup/Workspace/LFSR_4bit/LFSR_4bit_tb.v
+FD:/Quartus_Setup/Workspace/LFSR_4bit/LFSR_4bit_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Quartus_Setup/Workspace/LFSR_4bit/LFSR_4bit_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus_Setup/Workspace/LFSR_4bit|D:/Quartus_Setup/Workspace/LFSR_4bit/LFSR_4bit_tb.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+D:/Quartus_Setup/Workspace/LFSR_4bit
+R6
+n@l@f@s@r_4bit_tb
